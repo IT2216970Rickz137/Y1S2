@@ -1,0 +1,6 @@
+﻿  Lecture1_E3.cpp
+D:\.SLIIT\.NOW\Object Oriented Programming\Lecture Notes\Lecture1_E3\Lecture1_E3\Lecture1_E3.cpp(16,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\.SLIIT\.NOW\Object Oriented Programming\Lecture Notes\Lecture1_E3\Lecture1_E3\Lecture1_E3.cpp(20,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\.SLIIT\.NOW\Object Oriented Programming\Lecture Notes\Lecture1_E3\Lecture1_E3\Lecture1_E3.cpp(24,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\.SLIIT\.NOW\Object Oriented Programming\Lecture Notes\Lecture1_E3\Lecture1_E3\Lecture1_E3.cpp(28,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lecture1_E3.vcxproj -> D:\.SLIIT\.NOW\Object Oriented Programming\Lecture Notes\Lecture1_E3\x64\Debug\Lecture1_E3.exe
